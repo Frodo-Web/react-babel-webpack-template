@@ -1,0 +1,3 @@
+In two steps:
+1. npm run update
+2. npm install
